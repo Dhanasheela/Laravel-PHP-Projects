@@ -1,0 +1,17 @@
+//push
+1- create repository and collaborate in settings to add people
+2- git clone https://github.com/dhana1722/new_laravel.git
+3- copy laravel folder  files to new_laravel folder
+4-cd new_laravel
+5 - git status
+6- git add .
+git add foldername-add sigle folder
+- git status
+-git commit -m "registration laravel"
+-git push origin
+ 
+//pull
+ - git clone https://github.com/dhana1722/new_laravel.git
+
+ignore folder
+git rm -r --cached foldername
